@@ -41,7 +41,7 @@ const config = {
     description: 'Documentation for the nürolang programming language ',
     ogImage: null,
     docsLocation: 'https://github.com/nurolang/site/tree/main/content',
-    favicon: 'https://github.com/nurolang/asset/blob/main/img/logo_only.jpeg?raw=true',
+    favicon: 'https://raw.githubusercontent.com/nurolang/asset/86d4ceb50c5facb0182a264e9df31b20db05a186/img/logo_no_border.svg',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
